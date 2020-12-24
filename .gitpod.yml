@@ -1,0 +1,18 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: npm start
+
+vscode:
+  extensions:
+    - ritwickdey.liveserver@5.6.1:5Mhl1RgVVDcIym163x8r+w==
+    - coenraads.bracket-pair-colorizer-2@0.2.0:R8flOpw1fEZe6KyMNNNqBQ==
+    - coenraads.bracket-pair-colorizer@1.0.61:+jQByqALW0iXkhpd2yzYzQ==
+    - itsjonq.owlet@0.1.22:CcabF4mH40N/Zo3dT0w5zw==
+    - hookyqr.beautify@1.4.11:n9DJEUFbYD/YHaBXxm+pYw==
+    - xabikos.javascriptsnippets@1.8.0:irMtTLqQntnfBQkmtahtNA==
+    - esbenp.prettier-vscode@5.8.0:cd2Jz796EPVnD5zeCyctPw==
+    - bradlc.vscode-tailwindcss@0.5.6:f5dTI1iCiF7snbPuFU9p4w==
+    - vscode-icons-team.vscode-icons@11.0.0:sgMbw1vy4N+tc+GLdI9Txg==
